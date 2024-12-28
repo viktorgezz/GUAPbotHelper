@@ -1,0 +1,6 @@
+aiogram==2.5
+python-dotenv
+psycopg2
+requests
+datetime
+asyncio
